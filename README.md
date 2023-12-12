@@ -10,4 +10,8 @@ Hi There! This repo contains the source code for a web version of the Simon game
 - Game logic implemented using jQuery and CommonJS.
 - Sound effects and visual feedback for an engaging user experience.
 
+### Screenshots
+
+<img src="screenshots/genius-game.png" width="200px"/>
+
 Made with ☕️
