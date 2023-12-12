@@ -1,4 +1,4 @@
-# Genius
+# Genius Game
 
 ### Overview
 
